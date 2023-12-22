@@ -1,7 +1,7 @@
 package com.example.video.dao.impl;
 
 import com.example.video.dao.VideoDao;
-import com.example.video.model.Video;
+import com.example.video.model.movie.Video;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;

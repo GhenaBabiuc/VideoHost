@@ -1,4 +1,4 @@
-package com.example.video.model;
+package com.example.video.model.movie;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

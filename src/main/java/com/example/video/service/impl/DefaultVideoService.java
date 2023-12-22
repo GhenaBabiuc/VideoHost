@@ -1,7 +1,7 @@
 package com.example.video.service.impl;
 
 import com.example.video.dao.VideoDao;
-import com.example.video.model.Video;
+import com.example.video.model.movie.Video;
 import com.example.video.service.VideoService;
 import org.springframework.stereotype.Service;
 

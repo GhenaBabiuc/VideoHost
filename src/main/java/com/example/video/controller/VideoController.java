@@ -1,6 +1,6 @@
 package com.example.video.controller;
 
-import com.example.video.model.Video;
+import com.example.video.model.movie.Video;
 import com.example.video.service.VideoService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

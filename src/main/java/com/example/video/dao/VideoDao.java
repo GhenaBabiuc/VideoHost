@@ -1,6 +1,6 @@
 package com.example.video.dao;
 
-import com.example.video.model.Video;
+import com.example.video.model.movie.Video;
 
 import java.util.List;
 
